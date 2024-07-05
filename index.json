@@ -1,0 +1,7 @@
+{
+  "quotes": {
+    "branch": "chore/migrate-draft-bid-logic-to-queue-and-draft-bid-logic-refactor",
+    "backend":"https://quality-api.ag-ri.in/api"
+  }
+  
+}
